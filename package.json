@@ -1,0 +1,26 @@
+{
+  "name": "examplenodeapp",
+  "version": "1.0.0",
+  "description": "A very simple Node app to demonstrate the use of Docker with AWES Elasticbeanstalk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentsordo/ExampleNodeApp.git"
+  },
+  "author": "Vincent Sordo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentsordo/ExampleNodeApp/issues"
+  },
+  "homepage": "https://github.com/vincentsordo/ExampleNodeApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
