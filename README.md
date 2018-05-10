@@ -1,6 +1,6 @@
 # ExampleNodeApp
 
-This project was created to document what is required to deploy a simple node application using Docker and AWS Elastic Beanstalk. Additionally I included information about creating SSL certificates with ACM and using AWS Route 53. When I was working on projects I wasn't able to easily find all this information and I hope this repository helps others who have struggled with deploying to code to AWS. 
+This project was created to document what is required to deploy a simple node application using Docker and AWS Elastic Beanstalk. Additionally I included information about creating SSL certificates with ACM and using AWS Route 53. When I was working on projects I wasn't able to easily find all this information and I hope this repository helps others who have struggled with deploying code to AWS. 
 
 ## Steps
 1. Clone this repository: https://github.com/vincentsordo/ExampleNodeApp
